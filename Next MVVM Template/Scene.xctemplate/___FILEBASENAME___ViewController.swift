@@ -19,8 +19,9 @@ class ___VARIABLE_sceneName___ViewController:
     })
     
     // MARK: VAR
-    override var navigationBarButton: NavigationBarButton { .close }
+    override var navigationTransitionStyle: NavigationTransitionStyle { .close }
     override var isMinimizeLayoutMargins: Bool { true }
+    override var preferredNavigationItemByNavigationItemStyle: Bool { true }
     
     // MARK: Cycle
     override func viewDidLoad() {

@@ -1,6 +1,5 @@
 import RxCocoa
 import RxSwift
-import SnapKit
 
 class ___VARIABLE_sceneName___View: 
     UIView 
