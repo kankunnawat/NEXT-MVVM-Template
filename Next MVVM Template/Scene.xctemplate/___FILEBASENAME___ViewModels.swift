@@ -1,3 +1,6 @@
+import RxSwift
+import RxCocoa
+
 class ___VARIABLE_sceneName___ViewModels {
     struct Data {}
     
