@@ -4,7 +4,6 @@ import RxSwift
 class ___VARIABLE_sceneName___View: 
     UIView 
 {
-    
     // MARK: - UI
     
     // MARK: - Var
